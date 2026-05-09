@@ -1,6 +1,6 @@
-# 🤖 PChat — AI Developer Chatbot
+# 🤖 Pychat-groq — AI Developer Chatbot
 
-Pychat-groq is a terminal-based AI chatbot built with Python that answers software development questions. It uses **Groq's LLaMA 3.3 70B** model for fast, streamed responses directly in your terminal.
+pychatbot-groq is a terminal-based AI chatbot built with Python that answers software development questions. It uses **Groq's LLaMA 3.3 70B** model for fast, streamed responses directly in your terminal.
 
 ---
 
@@ -25,7 +25,7 @@ Pychat-groq is a terminal-based AI chatbot built with Python that answers softwa
 ## Project Structure
 
 ```
-pchat/
+pychatbot-groq/
 ├── src/
 │   └── main.py        # main application logic
 ├── .env.example       # example env file
@@ -41,7 +41,7 @@ pchat/
 
 ```bash
 git clone <repo-url>
-cd pchat
+cd pychatbot-groq
 ```
 
 ### 2. Create and activate virtual environment
